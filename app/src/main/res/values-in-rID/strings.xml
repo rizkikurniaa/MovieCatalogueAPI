@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film (API)</string>
+    <string name="tab_movie">Film</string>
+    <string name="tab_tv_show">Acara TV</string>
+
+    <string name="movie_title">Judul Film</string>
+    <string name="movie_release">Tanggal Rilis Film</string>
+    <string name="vote">Penilaian</string>
+    <string name="tvshow_title">Judul Acara Tv</string>
+    <string name="tvshow_date">Tanggal Rilis</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="rating">Penilaian</string>
+    <string name="language">Bahasa</string>
+    <string name="overview">Sinopsis</string>
+    <string name="change_language_settings">Ganti Bahasa</string>
+
+</resources>
